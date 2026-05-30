@@ -1,0 +1,20 @@
+return {
+     open_keybind_menu = "Open Keybind Menu",
+     custom_cursor = "Custom Cursor",
+     notification_side = "Notification Side",
+     dpi_scale = "DPI Scale",
+     corner_radius = "Corner Radius",
+     menu_bind = "Menu Bind",
+     menu_keybind = "Menu Keybind",
+     unload = "Unload",
+     forsaken = "Forsaken",
+     night = "99 Nights in the Forest",
+     strong = "The Strongest Battlefield",
+     zombie = "Survival Zombie Arena",
+     rail = "Dead Rails",
+     titan = "Titan Fishing",
+     mines = "Mines",
+     gunland = "Gunland FFA",
+     shui = "Sailor Gems",
+     cr = "Criminality"
+}
