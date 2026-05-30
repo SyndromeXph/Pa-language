@@ -16,5 +16,6 @@ return {
      mines = "矿井",
      gunland = "枪地FFA",
      shui = "水手宝石",
-     cr = "犯罪率"
+     cr = "犯罪率",
+     ohio = "俄亥俄州"
 }
