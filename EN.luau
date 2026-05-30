@@ -16,5 +16,6 @@ return {
      mines = "Mines",
      gunland = "Gunland FFA",
      shui = "Sailor Gems",
-     cr = "Criminality"
+     cr = "Criminality",
+     ohio = "Ohio"
 }
