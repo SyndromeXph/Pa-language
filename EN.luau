@@ -17,5 +17,6 @@ return {
      gunland = "Gunland FFA",
      shui = "Sailor Gems",
      cr = "Criminality",
-     ohio = "Ohio"
+     ohio = "Ohio",
+     we = "Westbound"
 }
