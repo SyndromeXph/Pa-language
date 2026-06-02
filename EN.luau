@@ -15,8 +15,11 @@ return {
      titan = "Titan Fishing",
      mines = "Mines",
      gunland = "Gunland FFA",
---     shui = "Sailor Gems",
+--    shui = "Sailor Gems",
      cr = "Criminality",
      ohio = "Ohio",
-     we = "Westbound"
+     we = "Westbound",
+     cb = "Cursed Blade",
+     hv = "Heavyweight Fishing",
+     bl = "Blood Debt"
 }
