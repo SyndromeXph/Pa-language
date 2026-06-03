@@ -19,11 +19,12 @@ return {
      mines = "矿井",
      gunland = "枪地FFA",
 --     shui = "水手宝石",
-     cr = "犯罪率",
+--     cr = "犯罪率",
      ohio = "俄亥俄州",
      we = "一路向西",
      cb = "诅咒之刃",
      hv = "重型钓鱼",
-     bl = "血债",
-     comwar = "战斗勇士"
+--     bl = "血债",
+     comwar = "战斗勇士",
+     war = "战争大亨"
 }
