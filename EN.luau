@@ -19,11 +19,12 @@ return {
      mines = "Mines",
      gunland = "Gunland FFA",
 --    shui = "Sailor Gems",
-     cr = "Criminality",
+--     cr = "Criminality",
      ohio = "Ohio",
      we = "Westbound",
      cb = "Cursed Blade",
      hv = "Heavyweight Fishing",
-     bl = "Blood Debt",
-     comwar = "Combat Warriors"
+--     bl = "Blood Debt",
+     comwar = "Combat Warriors",
+     war = "War Tycoon"
 }
