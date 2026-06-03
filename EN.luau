@@ -21,5 +21,6 @@ return {
      we = "Westbound",
      cb = "Cursed Blade",
      hv = "Heavyweight Fishing",
-     bl = "Blood Debt"
+     bl = "Blood Debt",
+     comwar = "Combat Warriors"
 }
