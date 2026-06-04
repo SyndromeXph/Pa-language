@@ -22,9 +22,11 @@ return {
 --     cr = "Criminality",
      ohio = "Ohio",
      we = "Westbound",
-     cb = "Cursed Blade",
      hv = "Heavyweight Fishing",
 --     bl = "Blood Debt",
-     comwar = "Combat Warriors",
-     war = "War Tycoon"
+--     comwar = "Combat Warriors",
+     war = "War Tycoon",
+     chain = "Chain",
+     brok = "Broken Blade",
+     jias = "Driving Empire"
 }
