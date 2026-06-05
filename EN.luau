@@ -28,5 +28,10 @@ return {
      war = "War Tycoon",
      chain = "Chain",
      brok = "Broken Blade",
-     jias = "Driving Empire"
+     jias = "Driving Empire",
+     loot = "Bloxloot",
+     sno = "Creatures of Sonaria",
+     jisu = "Legend of Speed",
+     ren = "Ninja Legend",
+     evade = "Evade"
 }
