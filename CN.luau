@@ -28,5 +28,10 @@ return {
      war = "战争大亨",
      chain = "链条",
      jias = "驾驶帝国",
-     brok = "破碎之刃"
+     brok = "破碎之刃",
+     loot = "Bloxloot",
+     sno = "索拉里亚的生物",
+     jisu = "极速传奇",
+     ren = "忍者传奇",
+     evade = "躲避"
 }
