@@ -33,5 +33,6 @@ return {
      sno = "索拉里亚的生物",
      jisu = "极速传奇",
      ren = "忍者传奇",
-     evade = "躲避"
+     evade = "躲避",
+     dul = "决斗场"
 }
