@@ -33,5 +33,6 @@ return {
      sno = "Creatures of Sonaria",
      jisu = "Legend of Speed",
      ren = "Ninja Legend",
-     evade = "Evade"
+     evade = "Evade",
+     dul = "Duel Arena"
 }
