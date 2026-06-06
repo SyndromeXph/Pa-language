@@ -34,5 +34,6 @@ return {
      jisu = "Legend of Speed",
      ren = "Ninja Legend",
      evade = "Evade",
-     dul = "Duel Arena"
+     dul = "Duel Arena",
+     lt = "Lumber Tycoon2"
 }
