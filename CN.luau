@@ -36,5 +36,6 @@ return {
      evade = "躲避",
      dul = "决斗场",
      lt = "伐木大亨",
-     emx = "恶魔学"
+     emx = "恶魔学",
+     funky = "动感星期五"
 }
