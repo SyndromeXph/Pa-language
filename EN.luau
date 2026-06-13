@@ -35,5 +35,6 @@ return {
      ren = "Ninja Legend",
      evade = "Evade",
      dul = "Duel Arena",
-     lt = "Lumber Tycoon2"
+     lt = "Lumber Tycoon2",
+     emx = "Demonology"
 }
