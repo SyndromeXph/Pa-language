@@ -36,5 +36,6 @@ return {
      evade = "Evade",
      dul = "Duel Arena",
      lt = "Lumber Tycoon2",
-     emx = "Demonology"
+     emx = "Demonology",
+     funky = "Funky Friday"
 }
